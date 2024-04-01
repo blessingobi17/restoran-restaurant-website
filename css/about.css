@@ -490,8 +490,13 @@ footer h2::after {
   height: 2px;
   width: 50px;
 }
+
 .company::after {
   left: 90px;
+}
+
+.hours::after {
+  left: 70px;
 }
 
 .newsletter::after {

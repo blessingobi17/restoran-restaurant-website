@@ -878,7 +878,7 @@ textarea {
   content: "";
   position: absolute;
   top: 50%;
-  left: 130px;
+  left: 85px;
   background: var(--primary);
   height: 2px;
   width: 50px;
@@ -973,8 +973,13 @@ footer h2::after {
   height: 2px;
   width: 50px;
 }
+
 .company::after {
   left: 90px;
+}
+
+.hours::after {
+  left: 70px;
 }
 
 .newsletter::after {
